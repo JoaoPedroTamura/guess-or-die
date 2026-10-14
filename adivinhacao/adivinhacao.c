@@ -14,7 +14,6 @@ int main() {
     srand(seconds);
     int num = rand();
     int num_secret = (num % 100);
-
     int life;
     
 
